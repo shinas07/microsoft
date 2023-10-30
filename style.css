@@ -1,0 +1,613 @@
+.Firstlogo{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.Micrologo{
+    width: 100px;
+    margin-left: 27px;
+    margin-top: 7px;
+}
+
+
+
+
+.navbar{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.flex-class{
+    display: flex;
+    list-style: none;
+    margin-left: 10%;
+    margin-top: -47px;
+
+}
+
+li{
+    padding: 0  20px ;
+    font-size: 14px;
+
+}
+
+.leftli1{
+    margin-left:-18px;
+    
+}
+.leftli{
+    padding: 0 10px;
+
+}
+
+.leftli:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    
+}
+
+
+
+.navright{
+margin-left: 360px;
+font-size: 15px;
+
+
+}
+
+.rightli:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.iconimg{
+    width: 25px;
+    margin-top:-5px;
+    margin-left: -15px;
+    font-size:12px;
+}
+
+
+
+
+.buttonperson1{
+    background-color:rgb(38, 104, 202,1);
+    color:white;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration:none;
+    margin-top: 20px;
+
+}
+.buttonperson1:hover{
+    background-color: rgb(28, 78, 152);
+}
+
+.buttonperson2{
+
+    margin-left: 40px;
+   border: none;
+   background-color:transparent;
+   margin-top:30px;
+}
+
+.button3{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:bold;
+    color: rgb(74, 72, 72);
+    font-size: 110%;
+   
+
+}
+
+
+.button3:hover{
+    text-decoration: underline;
+}
+
+
+.buttonperson:hover{
+    background-color: rgb(4, 95, 152);
+    
+}
+
+.text-card-1{
+    position:absolute;
+    top:127px;
+    margin-left: 122px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+    
+}
+.Maxhead{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
+.text-par-1{
+    font-size: 16px;
+
+}
+
+.pauseicons{
+    margin-left: 550px;
+    margin-top: 30px;
+   
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    padding-left: px;
+  }
+  
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    
+  }
+.slider-arrow{
+    padding-left: 20px;
+  }
+
+
+
+.short-imgs{
+    position: absolute;
+  padding:0 15vw;
+    margin-top:10vh;
+    
+
+}
+
+.short-img-design{
+   padding-top:-20px;
+    width: 45px;
+    padding-left: 153px;
+   
+ 
+}
+
+.short-img-text-container{
+    margin-top: 15px;
+    margin-left:70px;
+    
+
+}
+
+
+.short-img-text{
+    padding-left: 30px;
+    color:rgb(30, 108, 175);
+   
+    
+}
+
+.short-img-text:hover{
+    cursor: pointer;
+    
+}
+
+
+
+.short-img-text1{
+    padding-left: 45px;
+    color:rgb(13, 84, 147);
+
+}
+
+
+.Product1{
+    position: absolute;
+    margin-top:15%;
+    right: 20px;
+    left: 20px;
+    padding: 20px;
+    
+}
+
+
+.Product2{
+    position: absolute;
+    margin-top:15%;
+    right: 20px;
+    left:360px;
+    padding: 20px;
+    
+}
+
+
+.Product3{
+
+    position: absolute;
+    margin-top:15%;
+    right: 20px;
+    left:695px;
+    padding: 20px;
+
+}
+
+.Product4{
+
+    position: absolute;
+    margin-top:15%;
+    right: 20px;
+    left:1030px;
+    padding: 20px;
+
+
+}
+
+.single-product{
+    width:22vw;
+    padding-left: 10px;
+}
+
+.Products-text{
+    font-size: 30px;
+    font-weight: 650;
+    margin-top: 29%;
+    margin-left: 70px;
+
+}
+
+.product-heading{
+    padding-right:80px;
+}
+
+
+.product-dec{
+    padding-left: 70px;
+    padding-right: 50;
+
+}
+
+
+.dec-text{
+    width:70%;
+    height:50%;
+    
+}
+
+
+.products-button{
+    text-decoration: none;
+    color:rgb(13, 84, 147);
+
+    
+   
+}
+
+.products-button:hover{
+    
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+
+
+
+.AI-invoation-img{
+    width: 95%;
+    margin-top: 50%;
+    padding-left: 2%;
+   
+}
+
+.AI-invoation-text{
+    position: absolute;
+    margin-top: -29%;
+    padding-left: 12%;
+
+    
+}
+
+.AI-invoation-button{
+    background-color:rgb(38, 104, 202,1);
+    color:white;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration:none;
+    margin-top: 20px;
+
+}
+
+.AI-invoation-button:hover{
+    background-color: rgb(28, 78, 152);
+
+}
+
+
+.business-heading{
+    position: absolute;
+    margin-top:6%;
+    left:80px;
+    font-size: 32px;
+    font-weight: 33%;
+    font-family: Arial;
+
+}
+
+.business-img{
+    width:78%;
+}
+
+.business1{
+    position: absolute;
+    margin-top:10%;
+    left:60px;
+    padding: 10px;
+    
+
+
+}
+.business2{
+    position: absolute;
+    margin-top:10%;
+    left:380px;
+    padding: 10px;
+
+
+}
+
+
+
+.business3{
+    position: absolute;
+    margin-top:10%;
+    left:710px;
+    padding: 10px;
+    
+
+}
+
+.business4{
+    position: absolute;
+    margin-top:10%;
+    left:1035px;
+    padding: 10px;
+
+}
+
+.business-button{
+    text-decoration: none;
+    color:rgb(13, 84, 147);
+
+    
+   
+}
+
+.business-button:hover{
+    
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+.blueprint{
+    
+    margin-top: 45%;
+   
+}
+
+.blueprint-img{
+    width:90%;
+    position:absolute;
+    margin-left: 50px;
+    height:75%;
+   
+  
+}
+
+.follow-micro{
+    position:absolute;
+    margin-left: 50px;
+    margin-top:45%;
+    
+
+}
+
+.blueprint-white-box{
+    position:absolute;
+    background-color: white;
+    width: 34%;
+    height: 40%;
+    margin-left:8%;
+    margin-top: 8%;
+}
+
+.blueprint-header{
+    padding-left: 10%;
+
+
+}
+
+.blueprint-button{
+    padding-left: 10%;
+   padding-top: 3%;
+    text-decoration: none;
+    
+
+
+    
+    
+
+}
+
+.blueprint-button-text{
+    color:white;
+    background-color:rgb(38, 104, 202,1);
+    border: none;
+    font-size: 16px;
+    
+
+}
+
+.blueprint-button-text:hover{
+    cursor: pointer;
+    background-color: rgb(28, 78, 152);
+    
+
+}
+
+.follow-micro{
+    font-size: 100%;
+    margin-top: 44%;
+    cursor: pointer;
+
+}
+
+.last-continer{
+    position:absolute;
+    margin-top:55%;
+    background-color:#f2f2f2;;
+    width: 99%;
+    height: 65%;
+    display: flex;
+}
+.footer1{
+
+margin-left: 1%;
+margin-right: 90px;
+margin-top: 3%;
+height: 480px;
+
+}
+
+.footer-header{
+    color:#616161;
+    font-size: 24px;
+    margin-left: 15px;
+   
+
+}
+.footer-informations{
+    position:absolute;
+    list-style: none;
+    font-size: 11px;
+    color:#616161;
+    padding-left:0px;
+    cursor: pointer;
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.underline-footer:hover{
+    text-decoration: underline;
+}
+
+
+
+.footer2{
+    height: 480px;
+
+    padding-left: -10px;
+    list-style: none;
+    margin-top: 3%;
+    margin-right: 90px;
+    }
+
+.footer3{
+        height: 480px;
+       
+        padding-left: -0px;
+        list-style: none;
+        margin-top: 3%;
+        width: 220px;
+        }
+
+ .footer4{
+            height: 480px;
+           
+            padding-left: 10px;
+            list-style: none;
+
+            
+            margin-top:3%;
+          }
+
+
+ .footer5{
+   height: 480px;
+  list-style: none;  
+   width: 10px;
+   margin-top:3%;
+  padding-left: 95px;
+ }
+
+ .footer6 {
+    height: 480px;
+    list-style: none;
+    width: 120px;
+    margin-top: 3%;
+    margin-right: 0; 
+    padding-left: 18%; 
+  }
+
+
+
+  .last-right-side-text {
+    position: absolute;
+    right: 10px;
+    font-size: 0px;
+    margin-top: 88%;
+    font-family: 'Segoe UI',SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:#616161;
+}
+
+.last-right-side-text ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.last-right-side-text li {
+    display: inline;
+    margin-right: 10px;
+    cursor: pointer;
+   
+}
+
+.last-right-side-text li:hover{
+    text-decoration: underline;
+}
+
+.right-footer {
+    position:absolute;
+   
+    color:#616161;
+
+    padding: 10px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    margin-top: 88%;
+    
+}
+
+.right-footer img {
+    width: 20px; 
+    margin-left: 10px; 
+}
+
+
+.right-footer li {
+    display: inline;
+    margin-right: 10px;
+    cursor: pointer;
+   
+}
+
+.right-footer li:hover{
+    text-decoration: underline;
+}
